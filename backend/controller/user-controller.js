@@ -70,8 +70,8 @@ export const emailsend =  (code, email) =>{
         {
             service: 'gmail',
             auth:{
-                user: 'worldcelebrity12@gmail.com',
-                pass: 'Amna1997.'
+                user: 'YourEmail',
+                pass: 'YourPassword'
             }
         }
     );
